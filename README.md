@@ -1,2 +1,9 @@
 # iconsapps
-Common icons from famous software.
+
+Contains icons from applications, like as:
+
+* BurpSuite
+* PostMan
+* Wireshark
+* zim
+etc...
